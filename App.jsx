@@ -88,3 +88,4 @@ export default function ObulreddyFinance() {
     </div>
   );
 }
+export default ObulreddyFinance;
